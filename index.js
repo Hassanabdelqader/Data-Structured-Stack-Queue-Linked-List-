@@ -34,6 +34,7 @@ console.log("\x1b[35m",queueLinkedList.isEmpty());
 
 
 console.log("\x1b[31m","**************** Stack ************** ")
+console.log("\x1b[31m","############# Stack ############# ")
 
 
 
