@@ -6,6 +6,7 @@ describe("testing the stack " , ()=>{
         objStack.pushItem(`1`)
         objStack.pushItem(`2`)
         expect(objStack.peek()).toBe("2")
+        
     })
 
     it("test pop ", ()=>{
